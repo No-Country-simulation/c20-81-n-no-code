@@ -39,7 +39,7 @@ Bienvenido a **Brave Coffee**, una aplicación No Code que permite a los cliente
 
 - **No Code Platform:** [FlutterFlow]
 - **QR Code:** Generación de códigos QR para acceso directo a la aplicación.
-- **Frontend:** HTML5, CSS3, JavaScript (Aplicable a futuro para mejooras en la app).
+- **Frontend:** HTML5, CSS3, JavaScript (Aplicable a futuro para mejoras en la app).
 
 ## Contribución
 
