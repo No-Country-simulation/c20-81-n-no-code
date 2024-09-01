@@ -1,7 +1,7 @@
 # c20-81-n-no-code  
 # La documentación se encuentra en la carpeta docs/.
 
-# Brave Coffee ☕️
+# Brave Coffee Bar☕️
 
 Bienvenido a **Brave Coffee**, una aplicación No Code que permite a los clientes de nuestra cafetería explorar, personalizar y ordenar una selección de cafés de todo el mundo. Acceda a la aplicación escaneando el código QR disponible en nuestras mesas y disfrute de una experiencia de pedido única y sin contacto.
 
