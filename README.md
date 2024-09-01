@@ -3,7 +3,7 @@
 
 # Brave Coffee Bar☕️
 
-Bienvenido a **Brave Coffee**, una aplicación No Code que permite a los clientes de nuestra cafetería explorar, personalizar y ordenar una selección de cafés de todo el mundo. Acceda a la aplicación escaneando el código QR disponible en nuestras mesas y disfrute de una experiencia de pedido única y sin contacto.
+Bienvenido a **Brave Coffee Bar**, una aplicación No Code que permite a los clientes de nuestra cafetería explorar, personalizar y ordenar una selección de cafés de todo el mundo. Acceda a la aplicación escaneando el código QR disponible en nuestras mesas y disfrute de una experiencia de pedido única y sin contacto.
 
 ## Tabla de Contenidos
 
@@ -17,7 +17,7 @@ Bienvenido a **Brave Coffee**, una aplicación No Code que permite a los cliente
 
 ## Descripción
 
-**Brave Coffee** es una solución digital que permite a los clientes seleccionar y ordenar su café favorito directamente desde su dispositivo móvil. La aplicación ofrece una variedad de cafés nacionales e internacionales, con opciones para personalizar cada pedido según las preferencias del usuario.
+**Brave Coffee Bar** es una solución digital que permite a los clientes seleccionar y ordenar su café favorito directamente desde su dispositivo móvil. La aplicación ofrece una variedad de cafés nacionales e internacionales, con opciones para personalizar cada pedido según las preferencias del usuario.
 
 ## Características
 
@@ -61,4 +61,4 @@ Este proyecto está licenciado bajo la Licencia MIT. Para más detalles, consult
 ¿Tienes preguntas o comentarios? No dudes en contactarnos:
 
 - Email: [angelsmart86@gmail.com](mailto:angelsmart86@gmail.com)
-- Sitio web: [www.bravecoffee.com](http://www.bravecoffee.com)
+- Sitio web: [www.bravecoffeebar.com](http://www.bravecoffeebar.com)
