@@ -22,7 +22,7 @@ Bienvenido a **Brave Coffee Bar**, una aplicación No Code que permite a los cli
 ## Características
 
 - **Selección de Café:** Explora una amplia gama de cafés provenientes de diferentes países.
-- **Personalización:** Personaliza tu café eligiendo opciones como con o sin leche, con o sin alcohol, y el tamaño de la porción.
+- **Personalización:** Personaliza tu café eligiendo opciones como con o sin leche, con o sin endulzante y sus tipos.
 - **Selección de Mesa:** Indica en qué mesa te encuentras para que el mesero pueda entregarte tu pedido.
 - **Confirmación de Pedido:** Recibe información detallada sobre el importe total y el mesero asignado a tu mesa.
 - **Acceso Fácil:** Simplemente escanea el código QR en la mesa para comenzar.
@@ -32,16 +32,20 @@ Bienvenido a **Brave Coffee Bar**, una aplicación No Code que permite a los cli
 
 1. **Escanea el Código QR:** Encuentra el código QR en tu mesa y escanéalo con la cámara de tu teléfono para acceder a la aplicación.
 2. **Explora el Menú:** Navega por la selección de cafés disponibles y elige el que prefieras.
-3. **Personaliza tu Pedido:** Selecciona tus preferencias (leche, alcohol, tamaño) y la cantidad de cafés.
+3. **Personaliza tu Pedido:** Selecciona tus preferencias (leche, endulzante) y la cantidad de cafés.
 4. **Selecciona tu Mesa:** Indica el número de la mesa donde te encuentras.
 5. **Confirma tu Pedido:** Revisa los detalles de tu pedido, incluyendo el importe total y el mesero asignado.
 6. **Disfruta tu Café:** Siéntate y relájate mientras el mesero lleva tu pedido a tu mesa.
 
 ## Tecnologías Utilizadas
 
-- **No Code Platform:** [FlutterFlow]
-- **QR Code:** Generación de códigos QR para acceso directo a la aplicación.
-- **Frontend:** HTML5, CSS3, JavaScript (Aplicable a futuro para mejoras en la app).
+- **Plataforma No Code:** [FlutterFlow](https://flutterflow.io/)
+- **Backend y Base de Datos:** [Supabase](https://supabase.com/) (autenticación, almacenamiento y consultas SQL).
+- **Diseño:** [Figma](https://www.figma.com/) (para la creación de prototipos y diseño UI/UX).
+- **Generación de Códigos QR:** [qrcodemonkey](https://www.qrcode-monkey.com/es/)
+- **Colaboración y Planificación:** [MIRO](https://miro.com/) (para la planificación visual y colaboración en equipo).
+- **Frontend (Opcional/Futuro):** HTML5, CSS3, JavaScript (para futuras mejoras en la app).
+
 
 ## Contribución
 
