@@ -26,7 +26,7 @@ Bienvenido a **Brave Coffee Bar**, una aplicación No Code que permite a los cli
 - **Selección de Mesa:** Indica en qué mesa te encuentras para que el mesero pueda entregarte tu pedido.
 - **Confirmación de Pedido:** Recibe información detallada sobre el importe total y el mesero asignado a tu mesa.
 - **Acceso Fácil:** Simplemente escanea el código QR en la mesa para comenzar.
-- ![QR Code](assets/qr_code.png)
+- ![QR Code](assets/qr-code.png) 
 
 ## Cómo Usar
 
