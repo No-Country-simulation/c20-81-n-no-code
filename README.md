@@ -45,8 +45,7 @@ Bienvenido a **Brave Coffee Bar**, una aplicación No Code que permite a los cli
 - **Generación de Códigos QR:** [qrcodemonkey](https://www.qrcode-monkey.com/es/)
 - **Colaboración y Planificación:** [MIRO](https://miro.com/) (para la planificación visual y colaboración en equipo).
 - **Frontend (Opcional/Futuro):** HTML5, CSS3, JavaScript (para futuras mejoras en la app).
-
-
+  
 ## Contribución
 
 ¡Nos encantaría recibir tus contribuciones! Para contribuir:
@@ -56,6 +55,16 @@ Bienvenido a **Brave Coffee Bar**, una aplicación No Code que permite a los cli
 3. Realiza tus cambios y haz commit (`git commit -m 'Añadir nueva funcionalidad'`).
 4. Envía tu rama (`git push origin feature/nueva-funcionalidad`).
 5. Abre un Pull Request.
+
+## Documentación Técnica
+
+### Diagrama Entidad-Relación (ER)
+
+Aquí se muestra el modelo entidad-relación (ER) de la base de datos de Brave Coffee:
+
+![Diagrama ER](docs/ER_Diagram.png)
+
+Este modelo estructura las relaciones entre pedidos, clientes, mesas y opciones de personalización.
 
 ## Licencia
 
