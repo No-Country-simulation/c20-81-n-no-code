@@ -60,7 +60,7 @@ Bienvenido a **Brave Coffee Bar**, una aplicación No Code que permite a los cli
 
 ### Diagrama Entidad-Relación (ER)
 
-Aquí se muestra el modelo entidad-relación (ER) de la base de datos de Brave Coffee:
+Aquí se muestra el modelo entidad-relación (ER) de la base de datos de Brave Coffee Bar:
 
 ![Diagrama ER](docs/ER_Diagram.pdf)
 
