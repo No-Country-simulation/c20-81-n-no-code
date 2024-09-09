@@ -62,7 +62,7 @@ Bienvenido a **Brave Coffee Bar**, una aplicación No Code que permite a los cli
 
 Aquí se muestra el modelo entidad-relación (ER) de la base de datos de Brave Coffee:
 
-![Diagrama ER](docs/ER_Diagram.png)
+![Diagrama ER](docs/ER_Diagram.pdf)
 
 Este modelo estructura las relaciones entre pedidos, clientes, mesas y opciones de personalización.
 
