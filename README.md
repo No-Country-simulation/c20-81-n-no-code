@@ -66,6 +66,13 @@ Aquí se muestra el modelo entidad-relación (ER) de la base de datos de Brave C
 
 Este modelo estructura las relaciones entre pedidos, clientes, mesas y opciones de personalización.
 
+## Planificación de Sprints
+
+- [Sprint 1: Diseño del Menú de Cafés](docs/Sprint-1-Plan.md)
+- [Sprint 2: Confirmación de Pedido e Integración de QR Codes](docs/Sprint-2-Plan.md)
+- [Sprint 3: Selección de Mesa y Optimización UX](docs/Sprint-3-Plan.md)
+- [Sprint 4: Pruebas y Preparación para el Demo Day](docs/Sprint-4-Plan.md)
+
 ## Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](LICENSE).
