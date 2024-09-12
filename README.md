@@ -83,3 +83,5 @@ Este proyecto está licenciado bajo la Licencia MIT. Para más detalles, consult
 
 - Email: [angelsmart86@gmail.com](mailto:angelsmart86@gmail.com)
 - Sitio web: [www.bravecoffeebar.com](http://www.bravecoffeebar.com)
+- Github: [www.github.com](https://github.com/angelsmart86)
+- Teléfono: [+549 266 4644093]
