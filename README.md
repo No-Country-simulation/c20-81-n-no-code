@@ -31,31 +31,14 @@ Bienvenido a **Brave Coffee Bar**, una aplicación No Code que permite a los cli
 ## Capturas de pantalla
 
 <p align="center">
-
-### Pantalla de Inicio
-<img src="assets/pantalla_inicio.png" width="200">
-
-### Pantalla de inicio 2
+  <img src="assets/pantalla_inicio.png" width="200">
   <img src="assets/pantalla_inicio2.png" width="200">
-
-### Pantalla ingreso
   <img src="assets/pantalla_ingreso.png" width="200">
-
-### Menú principal
   <img src="assets/menu_principal.png" width="200">
-
-### Elección extra
   <img src="assets/eleccion_extra.png" width="200">
-
-### Resúmen pedido
   <img src="assets/resumen_pedido.png" width="200">
-
-### Confirmar pedido
   <img src="assets/confirmar_pedido.png" width="200">
-
-### Pedido realizado
   <img src="assets/pedido_realizado.png" width="200">
-  
 </p>
 
 ## Cómo Usar
