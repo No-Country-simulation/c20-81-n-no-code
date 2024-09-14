@@ -28,6 +28,12 @@ Bienvenido a **Brave Coffee Bar**, una aplicación No Code que permite a los cli
 - **Acceso Fácil:** Simplemente escanea el código QR en la mesa para comenzar.
 <img src="assets/qr-code.png " alt="QR Code" width="200" />
 
+## Capturas de pantalla
+
+### Pantalla de Inicio
+![Pantalla de Inicio](docs/assets/pantalla_inicio.png)
+<img src="docs/assets/pantalla_inicio.png" width="200">
+
 ## Cómo Usar
 
 1. **Escanea el Código QR:** Encuentra el código QR en tu mesa y escanéalo con la cámara de tu teléfono para acceder a la aplicación.
