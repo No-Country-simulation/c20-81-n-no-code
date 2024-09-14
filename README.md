@@ -31,7 +31,6 @@ Bienvenido a **Brave Coffee Bar**, una aplicación No Code que permite a los cli
 ## Capturas de pantalla
 
 ### Pantalla de Inicio
-![Pantalla de Inicio]
 <img src="assets/pantalla_inicio.png" width="200">
 
 ## Cómo Usar
