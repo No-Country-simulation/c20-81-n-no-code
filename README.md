@@ -30,9 +30,14 @@ Bienvenido a **Brave Coffee Bar**, una aplicación No Code que permite a los cli
 
 ## Capturas de pantalla
 
-| Pantalla de Inicio  | Pantalla de Inicio 2 | Pantalla de Ingreso  | Menú Principal       | Elección Extra       | Resumen Pedido        | Confirmar Pedido     | Pedido Realizado     |
-|---------------------|----------------------|----------------------|----------------------|----------------------|-----------------------|----------------------|----------------------|
-| <img src="assets/pantalla_inicio.png" width="200"> | <img src="assets/pantalla_inicio2.png" width="200"> | <img src="assets/pantalla_ingreso.png" width="200"> | <img src="assets/menu_principal.png" width="200"> | <img src="assets/eleccion_extra.png" width="200"> | <img src="assets/resumen_pedido.png" width="200"> | <img src="assets/confirmar_pedido.png" width="200"> | <img src="assets/pedido_realizado.png" width="200"> |
+| Pantalla de Inicio  | Pantalla de Inicio 2 | Pantalla de Ingreso  | Menú Principal       |
+|---------------------|----------------------|----------------------|----------------------|
+| <img src="assets/pantalla_inicio.png" width="200"> | <img src="assets/pantalla_inicio2.png" width="200"> | <img src="assets/pantalla_ingreso.png" width="200"> | <img src="assets/menu_principal.png" width="200"> |
+
+| Elección Extra       | Resumen Pedido        | Confirmar Pedido     | Pedido Realizado     |
+|----------------------|-----------------------|----------------------|----------------------|
+| <img src="assets/eleccion_extra.png" width="200"> | <img src="assets/resumen_pedido.png" width="200"> | <img src="assets/confirmar_pedido.png" width="200"> | <img src="assets/pedido_realizado.png" width="200"> |
+
 
 
 ## Cómo Usar
