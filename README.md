@@ -39,7 +39,6 @@ Bienvenido a **Brave Coffee Bar**, una aplicación No Code que permite a los cli
 | <img src="assets/eleccion_extra.png" width="200"> | <img src="assets/resumen_pedido.png" width="200"> | <img src="assets/confirmar_pedido.png" width="200"> | <img src="assets/pedido_realizado.png" width="200"> |
 
 
-
 ## Cómo Usar
 
 1. **Escanea el Código QR:** Encuentra el código QR en tu mesa y escanéalo con la cámara de tu teléfono para acceder a la aplicación.
@@ -84,6 +83,10 @@ Este modelo estructura las relaciones entre pedidos, clientes, mesas y opciones 
 - [Sprint 2: Confirmación de Pedido e Integración de QR Codes](docs/Sprint-2-Plan.md)
 - [Sprint 3: Selección de Mesa y Optimización UX](docs/Sprint-3-Plan.md)
 - [Sprint 4: Pruebas y Preparación para el Demo Day](docs/Sprint-4-Plan.md)
+
+## Team Leader
+
+- Elías David Galeano
 
 ## Licencia
 
